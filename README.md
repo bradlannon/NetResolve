@@ -1,0 +1,2 @@
+# NetResolve
+A windows service to enable/disable proxy settings depending on the network a computer joins. It also displays information about your computer such as the hostname, ip address and other network information. Especially great if you have certian proxy configuration at home that you can automatically turn on or off.  Created in C# .Net 4.5 using Visual Studio 2015 and log4net for logging. 
